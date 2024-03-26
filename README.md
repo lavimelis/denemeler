@@ -1,1 +1,1 @@
-"# -devlerim"  "# -devlerim" 
+"# -denemelerim"  "# -denemelerim" 
